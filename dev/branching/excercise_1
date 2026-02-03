@@ -1,0 +1,4 @@
+git branch #it shows existing branches 
+git branch develop  #this will create a new branch named as develop
+git branch checkout  # this created branch checkout
+git checkout -b feature #here we have created a new branch and switch to the branch
